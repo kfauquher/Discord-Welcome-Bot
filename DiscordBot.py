@@ -1,7 +1,5 @@
 #Author Name: Kylie Fauquher
-#Date: 3/5/2022
-#Program Name: Fauquher_DiscordWelcomeBot
-#Purpose: Connection to a Discord server that bot can welcome and mention new members in a channel of your choice.
+#Date: 02/2022
 
 import discord      
 import random
